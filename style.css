@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #778da9;
+}
+
+h1{
+    font-size: 75px;
+}
+
+#characterBtn{
+    font-size: 50px;
+    background-color: #778da9 ;
+    border: 5px solid white;
+    border-radius: 20px;
+    color: white;
+}
+
+#characterBtn:hover{
+    color: yellow;
+}
+
+.card{
+    background-color: #778da9;
+    border: 5px solid white;
+    border-radius: 25px ;
+}
